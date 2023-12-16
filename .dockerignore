@@ -1,5 +1,5 @@
 *
-!docker/*
+!docker/*8
 !healthcheck.sh
 !docker_config.json
 !filebrowser
